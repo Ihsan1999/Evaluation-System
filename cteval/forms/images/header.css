@@ -1,0 +1,49 @@
+
+#footer {
+	width: 100%;
+	padding: 30px 0 25px 0;
+	background: #8AB84B;			
+	font-family: 'Trebuchet MS', 'Helvetica Neue', Arial, Sans-serif;
+	font-size: 0.95em;
+	color: #332616;	
+	text-align: center;	
+	letter-spacing: .2px;
+}
+#footer p {
+	padding:10px 0;
+}
+#footer a:hover { 
+	color: #555; 
+	border-bottom: 1px dotted #555;
+	text-decoration: none;
+}
+
+
+#logo-text a {
+	position: absolute;
+	margin: 0;
+	padding: 50px 0;
+	font: bold 66px 'Trebuchet MS', 'Helvetica Neue', Arial, Sans-serif;
+	letter-spacing: -5px;
+	text-decoration: none;
+	color: #332616;
+	/* change the values of top and left to adjust the position of the logo*/
+	top: 75px;
+	left: 55px;
+	width: 381px;
+}
+
+
+#slogan {
+	position: absolute;
+	margin: 0;
+	padding: 50px;
+	font: bold 15px 'Trebuchet MS', 'Helvetica Neue', Arial, Sans-serif;
+	color: #322815;
+	letter-spacing: -0.5px;
+	/* change the values of top and left to adjust the position of the slogan*/
+	top: 148px;
+	left: 150px;
+	width: 397px;
+}
+
